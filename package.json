@@ -12,6 +12,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
+  "homepage": "https://cush-k.github.io/my_portfolio/",
   "dependencies": {
     "@formspree/react": "^2.5.1",
     "emailjs-com": "^3.2.0",

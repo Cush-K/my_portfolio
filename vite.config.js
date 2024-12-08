@@ -3,8 +3,8 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
+  base: '/my_portfolio/', // Replace 'my_portfolio' with your repository name
   build: {
-    outDir: '.', // Place the output directly in the root directory
-    emptyOutDir: false, // Prevents clearing other files in the root
+    outDir: 'dist', // Default build directory
   },
 });
