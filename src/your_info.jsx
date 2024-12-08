@@ -6,8 +6,8 @@
 
 // Enter here your first and last name
 const name = {
-  firstname: 'KALVINE',
-  lastname: 'NDEI',
+  firstname: 'Kalvine',
+  lastname: 'Ndei',
 // Enter as url a link where your resume can be downloaded ( dropbox, OneDrive, ect )
   url: 'https://docs.google.com/document/d/1mA_Rv5I4SINFNATCXBy79IAId9wQLN409RPORzWehSw/edit?tab=t.0',
 };

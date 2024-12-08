@@ -14,8 +14,8 @@ const Hero = () => {
           <div className='hero-content'>
             <div className='name-container wow fadeInLeft' data-wow-delay='.4s'>
               <name>
-                <h1 className='first-name'>{firstname}</h1>
-                <h1 className='last-name'>{lastname}</h1>
+                <h1 className='first-name'>{firstname.toUpperCase()}</h1>
+                <h1 className='last-name'>{lastname.toUpperCase()}</h1>
               </name>
             </div>
             <div className='typewriter-container wow fadeInLeft' data-wow-delay='.6s'>
