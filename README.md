@@ -16,7 +16,7 @@
 2. Navigate to the project directory:
 
    ```shell
-   cd my_mortfolio
+   cd my_portfolio
 
 3. Install dependencies:
 
