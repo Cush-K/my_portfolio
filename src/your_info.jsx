@@ -146,31 +146,31 @@ const projectData = [
   {
     title: 'Votive Laundry',
     description: 'A laundry and Dry cleaning website built with ReactJs, Flask-Python, and PostgreSQL',
-    demoUrl: 'https://wallpaperaccess.com/full/530366.jpg',
+    demoUrl: 'src/assets/images/Votive_Demo.gif',
     githubUrl: 'https://github.com/Cush-K/votive'
   },
   {
     title: 'Google Drive Clone',
     description: 'A project involving ReactJs, Flask-Python, Material Ui and PostgreSQL',
-    demoUrl: 'https://wallpapercave.com/wp/wp1933134.jpg',
+    demoUrl: 'src/assets/images/Google_Drive.gif',
     githubUrl: 'https://github.com/Cush-K/Google-Drive-Clone'
   },
   {
     title: 'TibaCare',
     description: 'A hospital management system built with ReactJs and Flask',
-    demoUrl: 'https://c4.wallpaperflare.com/wallpaper/43/399/700/photography-camera-birds-animals-wallpaper-preview.jpg',
+    demoUrl: 'src/assets/images/Tibacare.gif',
     githubUrl: 'https://github.com/Cush-K/Hospital-Mgmt'
   },
   {
     title: 'FreshMart',
     description: 'An admin site for managing grocery items built with ReactJs, and Flask-Python.',
-    demoUrl: 'src/assets/images/Jonathan Dominion Template.gif',
+    demoUrl: 'src/assets/images/Freshmart.gif',
     githubUrl: 'https://github.com/Cush-K/GroceryOwner'
   },
   {
     title: 'Electronics Store',
     description: 'An inventory management site built with ReactJs, and Flask-Python.',
-    demoUrl: 'src/assets/images/Jonathan Dominion Template.gif',
+    demoUrl: 'src/assets/images/Electronics.gif',
     githubUrl: 'https://github.com/Cush-K/electronics-store'
   },
   

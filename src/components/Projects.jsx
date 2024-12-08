@@ -65,10 +65,10 @@ const Projects = () => {
                     {renderDemoContent(project)}
                   </div>
                   <div className="card-footer">
-                    <a href={project.demoUrl} className="btn btn-primary">
+                    <a href={project.demoUrl} target='blank_' className="btn btn-primary">
                       Demo
                     </a>
-                    <a href={project.githubUrl} className="btn btn-secondary">
+                    <a href={project.githubUrl} target='blank_' className="btn btn-secondary">
                       GitHub
                     </a>
                   </div>
