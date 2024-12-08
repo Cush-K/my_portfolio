@@ -273,7 +273,7 @@
     position: relative;
     padding: 5px 0 100px 0;
     filter: brightness(0.8) contrast(1.2);
-    background-image: url(public/images/Titles.png);
+    background-image: url(/images/Titles.png);
     background-position: center;
     background-size: cover;
   }

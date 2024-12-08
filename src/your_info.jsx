@@ -1,7 +1,7 @@
 //////////////////////////////////////// ** HEADER / HERO SECTION **///////////////////////////////////////////
 
 // your_info.jsx
-// const backgroundImageUrl = 'public/images/Title.png';
+// const backgroundImageUrl = '/images/Title.png';
 
 
 // Enter here your first and last name
@@ -146,31 +146,31 @@ const projectData = [
   {
     title: 'Votive Laundry',
     description: 'A laundry and Dry cleaning website built with ReactJs, Flask-Python, and PostgreSQL',
-    demoUrl: 'public/images/Votive_Demo.gif',
+    demoUrl: '/images/Votive_Demo.gif',
     githubUrl: 'https://github.com/Cush-K/votive'
   },
   {
     title: 'Google Drive Clone',
     description: 'A project involving ReactJs, Flask-Python, Material Ui and PostgreSQL',
-    demoUrl: 'public/images/Google_Drive.gif',
+    demoUrl: '/images/Google_Drive.gif',
     githubUrl: 'https://github.com/Cush-K/Google-Drive-Clone'
   },
   {
     title: 'TibaCare',
     description: 'A hospital management system built with ReactJs and Flask',
-    demoUrl: 'public/images/Tibacare.gif',
+    demoUrl: '/images/Tibacare.gif',
     githubUrl: 'https://github.com/Cush-K/Hospital-Mgmt'
   },
   {
     title: 'FreshMart',
     description: 'An admin site for managing grocery items built with ReactJs, and Flask-Python.',
-    demoUrl: 'public/images/Freshmart.gif',
+    demoUrl: '/images/Freshmart.gif',
     githubUrl: 'https://github.com/Cush-K/GroceryOwner'
   },
   {
     title: 'Electronics Store',
     description: 'An inventory management site built with ReactJs, and Flask-Python.',
-    demoUrl: 'public/images/Electronics.gif',
+    demoUrl: '/images/Electronics.gif',
     githubUrl: 'https://github.com/Cush-K/electronics-store'
   },
   
