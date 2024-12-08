@@ -1,5 +1,5 @@
 {
-  "name": "Portfolio",
+  "name": "my_portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,6 +9,7 @@
     "build": "vite build",
     "lint": "eslint src --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
+    "homepage": "https://cush-k.github.io/my_portfolio/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
