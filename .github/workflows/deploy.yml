@@ -1,4 +1,6 @@
 name: Deploy
+permissions:
+  contents: write  # Explicitly grant write permissions for the GITHUB_TOKEN
 
 on:
   push:
