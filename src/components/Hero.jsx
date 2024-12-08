@@ -2,15 +2,9 @@ import React from 'react';
 import { name, socialProfiles } from '../your_info';
 import Navbar from './Navbar';
 import Typewriter from './Typewriter';
-// import { backgroundImageUrl } from '../your_info';
-
 
 const Hero = () => {
   const { firstname, lastname } = name;
-
-  // const heroStyle = {
-  //   backgroundImage: `url(${backgroundImageUrl})`,
-  // };
 
   return (
     <section id='Home' className='hero-area' >
