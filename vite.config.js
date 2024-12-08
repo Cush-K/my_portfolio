@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 export default defineConfig({
   plugins: [react()],
   build: {
-    outDir: 'dist', // Ensure this matches the GitHub Actions workflow
+    outDir: '.', // Place the output directly in the root directory
+    emptyOutDir: false, // Prevents clearing other files in the root
   },
 });
-
