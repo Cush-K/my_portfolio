@@ -136,7 +136,7 @@ const categories = [
 const achievements = [
   { word: 'Efficiency', value: 100, unit: '%' },
   { word: 'Finished Projects', value: 163, unit: '' },
-  { word: 'Experience', value: 2, unit: ' years' },
+  { word: 'Experience', value: 3, unit: ' years' },
 ];
 
 
@@ -180,7 +180,7 @@ const projectData = [
 //////////////////////////////////////// ** FOOTER SECTION **//////////////////////////////////////////////////
 
 const aboutMeText = {
-  infotext: `Hi there, I'm Kalvine of Glowtech. With 2 years of experience as a fullstack developer, I specialize in both front-end and back-end development using technologies like ReactJS, vanilla JavaScript, Python, Flask, PostgreSQL, and SQLite. I focus on creating dynamic, user-friendly interfaces and building efficient, scalable server-side applications.`,
+  infotext: `Hi there, I'm Kalvine of MergeDen. With 3 years of experience as a fullstack developer, I specialize in both front-end and back-end development using technologies like ReactJS, vanilla JavaScript, Python, Flask, PostgreSQL, and SQLite. I focus on creating dynamic, user-friendly interfaces and building efficient, scalable server-side applications.`,
   power_slogan: `Soft Solutions for Hard Problems`,
 };
 
